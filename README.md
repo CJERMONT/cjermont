@@ -17,6 +17,7 @@
 ---
 
 ## 🤝 Connect with Me
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />](https://linkedin.com/in/chad-jermont)
 
 [linkedin]: https://linkedin.com/in/chad-jermont
