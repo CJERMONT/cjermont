@@ -1,17 +1,26 @@
-<h1>Hi, I'm Chad, an <a href="https://linkedin.com/in/chad-jermont">IT Professional</a>☺</h1>
+<h1 align="center">Hi, I'm Chad — <a href="https://linkedin.com/in/chad-jermont">IT Professional</a> 👋</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<p align="center">
+  Passionate about technology, troubleshooting, and building beginner‑friendly documentation.
+</p>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cjermont/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/cjermont/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/cjermont/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cjermont/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cjermont/azure-network-protocols)
+---
 
-<h2>🤳Connect with me:</h2>
+## 👨‍💻 Information Technology Projects
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🟦 osTicket (Help Desk Ticketing System)
+- [osTicket: Prerequisites and Installation](https://github.com/cjermont/osticket-prereqs)
 
-[linkedin]: https://linkedin.com/in/chad-jermont
+### ☁️ Microsoft Azure
+- [Configuring On‑Premises Active Directory within Azure VMs](https://github.com/cjermont/configure-ad)
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/chad-jermont">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" />
+  </a>
+</p>
+
