@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chad — <a href="https://linkedin.com/in/chad-jermont">IT Professional</a> 👋</h1>
+<h1 align="center">Hi, I'm Chad — <a href="https://linkedin.com/in/chad-jermont">Aspiring IT Professional</a> 👋</h1>
 
 <p align="center">
   Passionate about technology, troubleshooting, and building beginner‑friendly documentation.
