@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/chad-jermont">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="35" />
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chad-jermont)
   </a>
 </p>
