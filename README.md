@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/chad-jermont">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
   </a>
 </p>
