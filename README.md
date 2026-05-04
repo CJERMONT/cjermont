@@ -4,7 +4,6 @@
   Passionate about technology, troubleshooting, and building beginner‑friendly documentation.
 </p>
 
-
 ---
 
 ## 👨‍💻 Information Technology Projects
