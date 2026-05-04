@@ -17,8 +17,9 @@
 
 ## 🤝 Connect with Me
 
+
 <p align="center">
   <a href="https://linkedin.com/in/chad-jermont">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chad-jermont)
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" />
   </a>
 </p>
