@@ -17,7 +17,6 @@
 
 ## 🤝 Connect with Me
 
-
 <p align="center">
   <a href="https://linkedin.com/in/chad-jermont">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" />
