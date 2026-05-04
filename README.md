@@ -12,8 +12,8 @@
 - [osTicket: Prerequisites and Installation](https://github.com/cjermont/osticket-prereqs)
 
 ### ☁️ Microsoft Azure
-- [Configuring On‑Premises Active Directory within Azure VMs](https://github.com/cjermont/configure-ad)
-
+- [Configuring On‑Premises Active Directory within Azure VMs]([https://github.com/cjermont/configure-ad)
+](https://github.com/CJERMONT/azure-network-protocols)
 ---
 
 ## 🤝 Connect with Me
