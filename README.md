@@ -5,13 +5,15 @@
 </p>
 
 
+---
+
 ## 👨‍💻 Information Technology Projects
 
 ### 🟦 osTicket (Help Desk Ticketing System)
 - [osTicket: Prerequisites and Installation](https://github.com/cjermont/osticket-prereqs)
 
 ### ☁️ Microsoft Azure
-- [Configuring On‑Premises Active Directory within Azure VMs](https://github.com/cjermont/azure-network-protocols).
+- [Configuring On‑Premises Active Directory within Azure VMs](https://github.com/cjermont/azure-network-protocols)
 
 ---
 
